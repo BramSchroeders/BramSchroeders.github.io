@@ -68,9 +68,6 @@ figure.snip1174 a {
   transform: translateY(50%);
   opacity: 0;
 }
-figure.snip1174 a:hover {
-  background-color: rgba(0, 0, 0, 0.2);
-}
 
 figure.snip1174:hover img,
 figure.snip1174.hover img {
