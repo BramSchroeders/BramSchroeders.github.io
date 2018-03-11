@@ -71,21 +71,7 @@ figure.snip1174 a {
 figure.snip1174 a:hover {
   background-color: rgba(0, 0, 0, 0.2);
 }
-figure.snip1174.blue {
-  background-color: #20638f;
-}
-figure.snip1174.yellow {
-  background-color: #c87f0a;
-}
-figure.snip1174.green {
-  background-color: #1e8449;
-}
-figure.snip1174.navy {
-  background-color: #222f3d;
-}
-figure.snip1174.red {
-  background-color: #962d22;
-}
+
 figure.snip1174:hover img,
 figure.snip1174.hover img {
   opacity: 0;
@@ -97,4 +83,5 @@ figure.snip1174.hover a {
   -webkit-transform: translateY(0);
   transform: translateY(0);
   opacity: 1;
+  filter: blur(2px);
 }
