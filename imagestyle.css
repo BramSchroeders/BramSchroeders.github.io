@@ -71,7 +71,6 @@ figure.snip1174 a {
 
 figure.snip1174:hover img,
 figure.snip1174.hover img {
-  opacity: 0;
   -webkit-transform: scale(1);
   transform: scale(1);
   -webkit-transform: blur(2px);
