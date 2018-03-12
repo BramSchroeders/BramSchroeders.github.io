@@ -1,7 +1,11 @@
 
-header {
-    background-image: url(img/pythoncode.jpg");
+.header {
+	background-image:url("img/code2.png");
+	height:300px;
+	width:110%;
+	margin:-10px;
 }
+
 
 .hovereffect {
   width: 100%;
